@@ -2,6 +2,32 @@
   "bingoTopics": [{
 		"id": 1,
 		"name": "NP Court",
-		"values": []
+		"values": [
+			{"id": 1, "value":"to many objections"}, 
+            {"id": 2, "value":"In saying that"}, 
+            {"id": 3, "value":"mind the glas"}, 
+            {"id": 4, "value":"contempt"}, 
+            {"id": 5, "value":"lawyer argue w/ eachother"},
+            {"id": 6, "value":"witness is late"}, 
+            {"id": 7, "value":"5th amendment revoked"}, 
+            {"id": 8, "value":"long bench trial"}, 
+            {"id": 9, "value":"lawyer is working pro bono"}, 
+            {"id": 10, "value":"officer/civilian safty"},
+            {"id": 11, "value":"Peekaboo"}, 
+            {"id": 12, "value":"death penality"}, 
+            {"id": 13, "value":"defense ask for lots of money"}, 
+            {"id": 14, "value":"wrong objections"}, 
+            {"id": 15, "value":"i can't remember"},
+            {"id": 16, "value":"excessive force"}, 
+            {"id": 17, "value":"witness awnser during objection"}, 
+            {"id": 18, "value":"cross question out of scope no objection"}, 
+            {"id": 19, "value":"duo process/4th admendment violated"}, 
+            {"id": 20, "value":"protect los santos"},
+            {"id": 21, "value":"self defense"}, 
+            {"id": 22, "value":"witness thinks simple question is confusing"}, 
+            {"id": 23, "value":"sbs/kangaroo court"}, 
+            {"id": 24, "value":"witness commits prejury"}, 
+            {"id": 25, "value":"peanut gallery is too loud"}
+		]
 	}]
 }
